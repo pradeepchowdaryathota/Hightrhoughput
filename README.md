@@ -7,7 +7,7 @@ venkata pradeep kumar athota
 02/08/25
 
 # Programing language & version:-
-python and version 3.11.7
+python 3.11.7
 
 # Libraries:-
 numpy, pandas, matplotlib, seaborn
@@ -18,7 +18,7 @@ matrix1.txt:- contains data matrix of cancer expression of different types
 matrix2.txt:-  contains data matrix of cancer expression of different types
 
 # Description:-
-Analyzed the correlation between two high-throughput cancer data matrices (matrix1.txt and matrix2.txt). Computed Pearson correlation coefficients, generated heatmaps, and compared correlations across different cancer types.
+Analyzed the correlation within each dataset (matrix1.txt and matrix2.txt) and generated heatmaps for visualization. Computed Pearson correlation coefficients and compared correlations across different cancer types between two high-throughput cancer data matrices.
 
 # Output files:-
 correlation_matrix1:- contains correlation values for matrix 1
